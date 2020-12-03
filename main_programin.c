@@ -1,10 +1,10 @@
 #include <stdio.h>
-#include "insertion_sort.h"
-#include "bubble_sort.h"
-#include "selection_sort.h"
-#include "quick_sort.h"
-#include "merge_sort.h"
-#include "count_sort.h"
+#include "sorting-func/insertion_sort.h"
+#include "sorting-func/bubble_sort.h"
+#include "sorting-func/selection_sort.h"
+#include "sorting-func/quick_sort.h"
+#include "sorting-func/merge_sort.h"
+#include "sorting-func/count_sort.h"
 
 #define dt long long
 
